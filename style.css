@@ -1,0 +1,16 @@
+h1 {
+    color: #a0570af7;
+}
+
+.center {
+    color: hwb(160 15% 20%);
+    text-align: center;
+}
+
+h2 {
+    color: hsl(220, 40%, 80%);
+}
+
+body {
+    font: bold 22px Arial;
+}
